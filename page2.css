@@ -114,10 +114,12 @@ hr{
 
 
 .social{
-	margin-top: 20px;
+	margin-top: 40px;
 	display:flex;
-	padding-left: 980px;
+	padding-left: 550px;
+	padding-right: 300px;
 }
+
 
 .social img{
 	width: 35px;
