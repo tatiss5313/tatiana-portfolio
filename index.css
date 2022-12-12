@@ -30,6 +30,7 @@ body{
 	align-items: center;
 }
 
+
 .logo{
 	width: 90px;
 	cursor: pointer;
@@ -93,7 +94,7 @@ hr{
 .social{
 	margin-top: 15px;
 	display: flex;
-	padding-left: 280px;
+	padding-left: 300px;
 }
 
 .social img{
