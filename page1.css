@@ -74,6 +74,7 @@ hr{
 
 .text-body{
 	display:block;
+	border: 20px;
 	padding-left: 100px;
 	padding-right: 100px;
 	color: #0995AD;
